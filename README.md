@@ -6,7 +6,6 @@ The program allows users to specify the desired length of the password and the n
 ## 🧠 How It Works
 
 1. The user is prompted to enter:
-   - Total password length
    - Number of letters (A-Z, a-z)
    - Number of symbols (e.g., `!@#$%^&*`)
    - Number of numbers (0–9)
